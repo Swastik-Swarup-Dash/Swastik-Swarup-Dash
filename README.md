@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastik-swarup-dash" alt="swastik-swarup-dash" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow,Natural Language Processing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Swastik-Swarup-Dash](https://github.com/Swastik-Swarup-Dash)
 
 - 💬 Ask me about **Machine-Learning,Deep-Learning,Data-Science,**
