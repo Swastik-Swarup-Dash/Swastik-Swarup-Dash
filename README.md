@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Swarup Dash</h1>
-<h3 align="center">I'm Swastik, an aspiring Software Engineer passionate about creating innovative solutions that positively impact people's lives. With a strong foundation in Java,Python,Machine Learning,with TensorFlow . I am eager to leverage my skills and knowledge to contribute to meaningful projects.</h3>
+<h3 align="center">I'm Swastik, an aspiring Software Engineer dedicated to building impactful, innovative solutions. Proficient in Docker, Kubernetes, Python, and Machine Learning with TensorFlow, I’m excited to apply my expertise to drive meaningful projects and create positive change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-swarup-dash&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-swarup-dash" /> </p>
 
